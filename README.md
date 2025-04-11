@@ -6,7 +6,7 @@
 - Wrote and pushed my first README
 
 ## Stay tuned for more :smile:
-* time to show workings!*
+**time to show working**
 ### My Linkedln page 
 [linkedin page](https://www.linkedin.com/in/aboyeji-basirat/)
-My name is  ==Basirat Aboyeji==.
+  --- My name is  Basirat Aboyeji==
